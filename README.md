@@ -1,6 +1,14 @@
 # RCNN
 Un petite implémentation de l'algo RCNN sur des images aérienne d'avions.
 
+# Répertoire
+
+## Repository Files:
+```
+├── REAMDE.md
+└── RCNN.ipynb
+```
+
 # Architecture
 
 ![RCNN-Archit](https://raw.githubusercontent.com/D3lt4lph4/papers/master/docs/images/imagedetection/rcnn/rcnn_network.png)
@@ -19,7 +27,7 @@ Un petite implémentation de l'algo RCNN sur des images aérienne d'avions.
 
 # ! WARNING !
 
-- La consomation peut-être potentiellement élevée
+- La consomation RAM peut potentiellement être importante
 
 # Résultats
 
